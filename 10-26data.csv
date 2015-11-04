@@ -1,0 +1,251 @@
+Gender,Age,EduLevel,Major,Control,Bar,Dot,StatsClass,StatsClassAgo,HorseRaceExposure,HorseRaceUtility,PollTrust,PollResult,LeadOverMoE,BattleForMoE,Trend,PresentationPreference
+Male,21,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,Likely,,Yes,3-5 years ago,Once a Month,Somewhat useful,Strongly Agree,2,1,3,4,Text
+Male,35,Post-graduate or more,"Social Sciences (economics, psychology, political science, etc.)",Neither Likely Nor Unlikely,,,Yes,3-5 years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,1,4,3,2,Text
+Male,24,Graduated college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,Neither Likely nor Unlikely,,Yes,1-3 years ago,Once a Month,Somewhat useful,Somewhat Disagree,4,2,3,1,Graphics
+Male,54,Post-graduate or more,"Natural Sciences (biology, physics, geology, etc.)",,,Very Likely,Yes,6+ years ago,Once a Week,Somewhat useful,Strongly Agree,2,1,3,4,Graphics
+Male,48,Completed trade/vocational school,"Natural Sciences (biology, physics, geology, etc.)",Neither Likely Nor Unlikely,,,No,,Less than Once a Month,Not useful,Neither Agree nor Disagree,3,2,1,4,Graphics
+Male,25,Post-graduate or more,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,Likely,,No,,2-3 Times a Week,Somewhat useful,Somewhat Agree,2,3,1,4,Text
+Male,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Somewhat Likely,Yes,1-3 years ago,Daily,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Male,18,Some HS or less,,,,Somewhat Likely,No,,Once a Week,Somewhat useful,Somewhat Agree,4,2,1,3,Graphics
+Male,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",Somewhat Unlikely,,,No,,2-3 Times a Week,Very useful,Strongly Agree,,,,,Text
+Male,27,Graduated college,"Social Sciences (economics, psychology, political science, etc.)",,Very Likely,,Yes,6+ years ago,Less than Once a Month,Not useful,Neither Agree nor Disagree,,,,,Graphics
+Female,21,Some college,Other,,Somewhat Likely,,Yes,3-5 years ago,Once a Week,Somewhat useful,Neither Agree nor Disagree,4,2,1,3,Text
+Male,20,Some college,"Natural Sciences (biology, physics, geology, etc.)",Somewhat Likely,,,Yes,1-3 years ago,Less than Once a Month,Somewhat useful,Somewhat Disagree,3,1,2,4,Text
+Male,21,Completed trade/vocational school,"Arts & Humanities (English, art, history, etc.)",,Likely,,No,,Once a Week,Not useful,Somewhat Disagree,1,2,4,3,Graphics
+Female,18,Some college,"Social Sciences (economics, psychology, political science, etc.)",Neither Likely Nor Unlikely,,,No,,Daily,Somewhat useful,Neither Agree nor Disagree,2,1,3,4,Text
+Female,23,Some college,"Natural Sciences (biology, physics, geology, etc.)",,Somewhat Likely,,Yes,1-3 years ago,Once a Week,Somewhat useful,Somewhat Disagree,4,1,3,2,Graphics
+Male,21,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,,Likely,Yes,Less than a year ago,Daily,Somewhat useful,Somewhat Agree,2,1,4,3,Text
+Male,22,Some college,"Arts & Humanities (English, art, history, etc.)",,,Somewhat Likely,No,,2-3 Times a Week,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Intersex,42,Post-graduate or more,Other,,Very Unlikely,,No,6+ years ago,Daily,Not useful,Strongly Disagree,4,3,1,2,Graphics
+Female,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",I Do Not Know,,,Yes,Less than a year ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,3,4,1,2,Graphics
+Female,19,HS Graduate/GED completed,Other,Somewhat Likely,,,Yes,Less than a year ago,Once a Week,Somewhat useful,Somewhat Agree,2,3,4,1,Graphics
+Male,21,Some college,"Arts & Humanities (English, art, history, etc.)",,,Likely,No,,2-3 Times a Week,Somewhat useful,Somewhat Agree,1,3,4,2,Graphics
+Male,20,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,Somewhat Likely,,Yes,Less than a year ago,Daily,Very useful,Strongly Agree,3,1,2,4,Text
+Male,21,HS Graduate/GED completed,,,,Unlikely,Yes,1-3 years ago,Never,Somewhat useful,Neither Agree nor Disagree,,,,,Text
+Male,19,Some college,"Arts & Humanities (English, art, history, etc.)",Somewhat Likely,,,No,,Daily,Somewhat useful,Somewhat Disagree,1,3,4,2,Graphics
+Male,21,HS Graduate/GED completed,"Social Sciences (economics, psychology, political science, etc.)",,,Somewhat Likely,Yes,3-5 years ago,Once a Month,Somewhat useful,Somewhat Agree,,,,,Graphics
+Male,20,Some college,"Natural Sciences (biology, physics, geology, etc.)",,,Somewhat Likely,Yes,1-3 years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,1,2,3,4,Graphics
+Female,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Unlikely,,,Yes,3-5 years ago,2-3 Times a Week,Not useful,Neither Agree nor Disagree,1,4,3,2,Text
+Male,15,Some HS or less,,,Somewhat Likely,,Yes,1-3 years ago,Once a Month,Not useful,Neither Agree nor Disagree,3,1,2,4,Graphics
+Female,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",Neither Likely Nor Unlikely,,,No,6+ years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Male,19,Some college,"Social Sciences (economics, psychology, political science, etc.)",Neither Likely Nor Unlikely,,,Yes,1-3 years ago,2-3 Times a Week,Somewhat useful,Somewhat Disagree,2,3,4,1,Graphics
+Male,20,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,Somewhat Likely,,Yes,3-5 years ago,2-3 Times a Week,Not useful,Somewhat Disagree,4,1,2,3,Text
+Male,19,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Unlikely,,Yes,Less than a year ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,,,,,Graphics
+Male,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Somewhat Likely,Yes,1-3 years ago,Daily,Somewhat useful,Somewhat Agree,3,2,1,4,Text
+Male,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",Likely,,,Yes,Less than a year ago,Daily,Somewhat useful,Strongly Agree,1,4,2,3,Text
+Male,21,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,,Somewhat Likely,Yes,3-5 years ago,2-3 Times a Week,Somewhat useful,Strongly Agree,4,2,1,3,Text
+Female,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Likely,,Yes,Less than a year ago,2-3 Times a Week,Somewhat useful,Somewhat Disagree,1,2,4,3,Graphics
+Male,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Likely,,Yes,3-5 years ago,2-3 Times a Week,Somewhat useful,Somewhat Disagree,3,1,4,2,Graphics
+Male,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",,,Neither Likely Nor Unlikely,Yes,3-5 years ago,2-3 Times a Week,Not useful,Strongly Agree,3,1,2,4,Graphics
+Male,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Neither Likely nor Unlikely,,Yes,Less than a year ago,2-3 Times a Week,Not useful,Somewhat Disagree,3,1,2,4,Graphics
+Male,21,Some college,"Arts & Humanities (English, art, history, etc.)",Neither Likely Nor Unlikely,,,No,,Once a Week,Not useful,Somewhat Disagree,2,3,4,1,Graphics
+Male,21,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,,Somewhat Likely,Yes,1-3 years ago,Once a Month,Somewhat useful,Somewhat Disagree,2,1,3,4,Graphics
+Male,56,Graduated college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",Somewhat Likely,,,Yes,6+ years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,,,,,Text
+Male,18,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Somewhat Likely,Yes,1-3 years ago,Once a Week,Somewhat useful,Strongly Agree,2,1,4,3,Text
+Female,24,Graduated college,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Likely,,Yes,3-5 years ago,Once a Month,Somewhat useful,Somewhat Agree,1,2,3,4,Text
+Male,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",,Somewhat Likely,,Yes,Less than a year ago,2-3 Times a Week,Somewhat useful,Strongly Agree,2,1,4,3,Graphics
+Male,20,Some college,"Arts & Humanities (English, art, history, etc.)",Somewhat Likely,,,Yes,Less than a year ago,Less than Once a Month,Somewhat useful,Somewhat Disagree,,,,,Graphics
+Female,22,Graduated college,"Social Sciences (economics, psychology, political science, etc.)",,,Somewhat Likely,Yes,1-3 years ago,Daily,Somewhat useful,Somewhat Agree,1,2,4,3,Text
+Male,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",Very Likely,,,Yes,Less than a year ago,Daily,Very useful,Somewhat Agree,1,2,4,3,Graphics
+Male,30,Post-graduate or more,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Likely,,Yes,3-5 years ago,Once a Week,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Male,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Likely,Yes,Less than a year ago,Once a Week,Somewhat useful,Somewhat Disagree,3,2,4,1,Graphics
+Female,21,Some college,"Arts & Humanities (English, art, history, etc.)",Somewhat Likely,,,Yes,1-3 years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,4,2,3,1,Graphics
+Male,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",,Somewhat Likely,,Yes,Less than a year ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,1,3,4,2,Graphics
+Male,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Likely,,Yes,Less than a year ago,Once a Week,Somewhat useful,Neither Agree nor Disagree,4,2,1,3,Graphics
+Female,21,Some college,"Arts & Humanities (English, art, history, etc.)",,,Likely,No,,Less than Once a Month,Somewhat useful,Neither Agree nor Disagree,1,4,3,2,Graphics
+Female,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Likely,,,Yes,Less than a year ago,Once a Week,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Male,33,Some college,"Natural Sciences (biology, physics, geology, etc.)",Neither Likely Nor Unlikely,,,Yes,1-3 years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,3,2,4,1,Graphics
+Female,26,Graduated college,"Arts & Humanities (English, art, history, etc.)",,Somewhat Likely,,No,,Once a Week,Somewhat useful,Somewhat Disagree,2,1,3,4,Graphics
+Male,22,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Neither Likely Nor Unlikely,Yes,Less than a year ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,,,,,Graphics
+Male,22,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Likely,,Yes,1-3 years ago,Once a Month,Somewhat useful,Neither Agree nor Disagree,3,1,2,4,Text
+Male,22,Some college,"Natural Sciences (biology, physics, geology, etc.)",Somewhat Likely,,,No,,Once a Week,Somewhat useful,Neither Agree nor Disagree,3,1,2,4,Graphics
+Male,21,Graduated college,"Natural Sciences (biology, physics, geology, etc.)",,,Somewhat Likely,Yes,1-3 years ago,Once a Week,Somewhat useful,Strongly Disagree,,,,,Graphics
+Male,29,Graduated college,"Natural Sciences (biology, physics, geology, etc.)",Somewhat Likely,,,Yes,6+ years ago,2-3 Times a Week,Somewhat useful,Neither Agree nor Disagree,3,1,2,4,Text
+Female,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Likely,,No,,Less than Once a Month,Somewhat useful,Somewhat Disagree,1,2,4,3,Graphics
+Female,19,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Likely,Yes,1-3 years ago,Once a Week,Somewhat useful,Somewhat Agree,3,2,1,4,Text
+Male,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Likely,,Yes,1-3 years ago,Less than Once a Month,Somewhat useful,Neither Agree nor Disagree,,,,,Text
+Female,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Likely,,Yes,1-3 years ago,Once a Month,Not useful,Somewhat Agree,3,1,2,4,Text
+Female,21,Some college,"Arts & Humanities (English, art, history, etc.)",Somewhat Likely,,,No,,Once a Month,Somewhat useful,Neither Agree nor Disagree,2,1,3,4,Graphics
+Male,23,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",Neither Likely Nor Unlikely,,,Yes,1-3 years ago,Once a Week,Somewhat useful,Somewhat Agree,2,4,3,1,Graphics
+Male,25,Graduated college,"Social Sciences (economics, psychology, political science, etc.)",,,Somewhat Unlikely,Yes,1-3 years ago,Once a Week,Not useful,Somewhat Agree,,,,,Graphics
+Male,24,Graduated college,"Social Sciences (economics, psychology, political science, etc.)",,,Neither Likely Nor Unlikely,Yes,3-5 years ago,Daily,Somewhat useful,Somewhat Agree,1,4,3,2,Graphics
+Female,22,Some college,"Arts & Humanities (English, art, history, etc.)",Likely,,,Yes,1-3 years ago,Once a Month,Somewhat useful,Somewhat Agree,3,2,1,4,Graphics
+Female,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Likely,,Yes,Less than a year ago,Once a Month,Somewhat useful,Somewhat Disagree,,,,,Graphics
+Male,22,Post-graduate or more,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Likely,,,Yes,Less than a year ago,Daily,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Female,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",,Somewhat Likely,,Yes,3-5 years ago,Once a Week,Not useful,Somewhat Agree,2,4,3,1,Graphics
+Male,22,Some college,Other,,Somewhat Likely,,Yes,1-3 years ago,2-3 Times a Week,Somewhat useful,Neither Agree nor Disagree,2,1,4,3,Graphics
+Male,20,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,,Somewhat Likely,Yes,1-3 years ago,Once a Month,Somewhat useful,Somewhat Agree,,,,,Graphics
+Male,28,Post-graduate or more,"Social Sciences (economics, psychology, political science, etc.)",Neither Likely Nor Unlikely,,,Yes,1-3 years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,4,3,1,2,Graphics
+Intersex,88,Some HS or less,"Foreign Language/Area Studies (Portuguese, African studies, European studies, etc.)",Unlikely,,,Yes,Less than a year ago,Never,Very useful,Strongly Disagree,,,,,Text
+Female,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",Neither Likely Nor Unlikely,,,Yes,3-5 years ago,Once a Week,Somewhat useful,Somewhat Disagree,3,1,4,2,Graphics
+Male,21,Some college,Other,,,Somewhat Likely,Yes,1-3 years ago,Daily,Somewhat useful,Neither Agree nor Disagree,2,1,3,4,Graphics
+Male,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Very Likely,,Yes,Less than a year ago,Daily,Somewhat useful,Somewhat Agree,1,2,3,4,Text
+Male,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Somewhat Likely,Yes,1-3 years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,4,1,2,3,Text
+Female,20,Some college,"Natural Sciences (biology, physics, geology, etc.)",Neither Likely Nor Unlikely,,,Yes,1-3 years ago,Never,Not useful,Strongly Disagree,3,1,2,4,Graphics
+Female,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",Neither Likely Nor Unlikely,,,Yes,1-3 years ago,Never,Not useful,Somewhat Agree,3,1,2,4,Graphics
+Male,21,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,Somewhat Likely,,Yes,Less than a year ago,Never,Not useful,Neither Agree nor Disagree,3,1,2,4,Graphics
+Female,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Somewhat Likely,Yes,Less than a year ago,Once a Week,Somewhat useful,Somewhat Disagree,,,,,Graphics
+Female,19,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,Somewhat Likely,,No,,Less than Once a Month,Somewhat useful,Neither Agree nor Disagree,2,1,4,3,Graphics
+Male,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Neither Likely Nor Unlikely,Yes,1-3 years ago,Daily,Somewhat useful,Somewhat Agree,1,2,4,3,Graphics
+Male,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",Likely,,,Yes,Less than a year ago,Once a Week,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Female,57,Completed trade/vocational school,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,Somewhat Likely,,No,,Daily,Somewhat useful,Strongly Disagree,,,,,Graphics
+Female,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",,,Somewhat Likely,Yes,1-3 years ago,2-3 Times a Week,Not useful,Somewhat Disagree,,,,,Graphics
+Male,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Likely,,,Yes,Less than a year ago,Daily,Somewhat useful,Somewhat Disagree,1,4,2,3,Text
+Male,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Likely,,No,,Daily,Not useful,Strongly Agree,3,2,1,4,Graphics
+Female,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Neither Likely Nor Unlikely,Yes,1-3 years ago,Once a Week,Somewhat useful,Somewhat Disagree,1,3,2,4,Text
+Male,80,Post-graduate or more,"Social Sciences (economics, psychology, political science, etc.)",Neither Likely Nor Unlikely,,,No,,Daily,Not useful,Neither Agree nor Disagree,,,,,Text
+Male,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Likely,,,Yes,1-3 years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,3,4,2,1,Graphics
+Other/Prefer not to respond,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Neither Likely nor Unlikely,,Yes,Less than a year ago,Never,Not useful,Neither Agree nor Disagree,2,1,3,4,Text
+Female,20,Some college,"Arts & Humanities (English, art, history, etc.)",,Somewhat Likely,,No,,Once a Week,Somewhat useful,Somewhat Disagree,2,1,3,4,Graphics
+Female,20,Some college,"Arts & Humanities (English, art, history, etc.)",Somewhat Likely,,,Yes,3-5 years ago,Once a Month,Somewhat useful,Somewhat Disagree,2,1,4,3,Graphics
+Female,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Somewhat Likely,Yes,1-3 years ago,Once a Week,Somewhat useful,Somewhat Disagree,3,2,1,4,Text
+Female,19,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Neither Likely nor Unlikely,,Yes,1-3 years ago,Less than Once a Month,Somewhat useful,Somewhat Disagree,4,2,1,3,Text
+Female,21,Some college,"Foreign Language/Area Studies (Portuguese, African studies, European studies, etc.)",Somewhat Likely,,,Yes,3-5 years ago,Once a Month,Somewhat useful,Somewhat Disagree,3,1,2,4,Graphics
+Female,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",,,Neither Likely Nor Unlikely,Yes,1-3 years ago,Once a Week,Somewhat useful,Somewhat Agree,3,1,4,2,Graphics
+Female,20,Some college,"Arts & Humanities (English, art, history, etc.)",,,I Do Not Know,Yes,3-5 years ago,Once a Month,Somewhat useful,Somewhat Agree,1,3,2,4,Graphics
+Intersex,22,Some HS or less,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,,Very Unlikely,No,6+ years ago,Daily,Very useful,Strongly Disagree,4,3,2,1,Text
+Female,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Likely,,Yes,Less than a year ago,Once a Week,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Male,55,Graduated college,Other,Neither Likely Nor Unlikely,,,No,,2-3 Times a Week,Somewhat useful,Somewhat Agree,,,,,Graphics
+Female,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",Likely,,,Yes,1-3 years ago,Never,Somewhat useful,Somewhat Agree,,,,,Graphics
+Female,19,Some college,"Natural Sciences (biology, physics, geology, etc.)",Somewhat Likely,,,Yes,1-3 years ago,Once a Week,Not useful,Strongly Disagree,2,1,4,3,Graphics
+Female,21,Post-graduate or more,"Natural Sciences (biology, physics, geology, etc.)",,,Somewhat Unlikely,Yes,Less than a year ago,2-3 Times a Week,Not useful,Somewhat Disagree,3,1,2,4,Graphics
+Male,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",,Neither Likely nor Unlikely,,Yes,3-5 years ago,Once a Month,Somewhat useful,Somewhat Disagree,2,1,3,4,Graphics
+Male,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Likely,,Yes,1-3 years ago,2-3 Times a Week,Very useful,Somewhat Agree,1,3,2,4,Graphics
+Female,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Neither Likely Nor Unlikely,Yes,1-3 years ago,Once a Week,Somewhat useful,Somewhat Disagree,1,2,3,4,Text
+Female,20,Some college,"Natural Sciences (biology, physics, geology, etc.)",Somewhat Likely,,,Yes,Less than a year ago,Never,Somewhat useful,Somewhat Disagree,3,1,2,4,Graphics
+Male,20,Some college,"Arts & Humanities (English, art, history, etc.)",,Somewhat Likely,,Yes,Less than a year ago,2-3 Times a Week,Somewhat useful,Somewhat Disagree,,,,,Text
+Female,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Likely,,,Yes,Less than a year ago,Once a Month,Somewhat useful,Somewhat Disagree,3,1,2,4,Graphics
+Female,22,Some college,"Arts & Humanities (English, art, history, etc.)",,,Somewhat Likely,Yes,3-5 years ago,Daily,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Male,19,Some college,Other,Somewhat Likely,,,No,,Less than Once a Month,Somewhat useful,Somewhat Agree,1,2,3,4,Graphics
+Male,21,Some college,"Arts & Humanities (English, art, history, etc.)",,Somewhat Likely,,Yes,1-3 years ago,Once a Week,Somewhat useful,Neither Agree nor Disagree,1,2,4,3,Graphics
+Male,19,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Neither Likely Nor Unlikely,Yes,Less than a year ago,2-3 Times a Week,Somewhat useful,Somewhat Disagree,4,2,3,1,Graphics
+Female,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",Likely,,,Yes,3-5 years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,1,2,4,3,Graphics
+Male,21,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",Likely,,,Yes,1-3 years ago,2-3 Times a Week,Somewhat useful,Somewhat Disagree,1,4,3,2,Text
+Female,20,Some college,"Natural Sciences (biology, physics, geology, etc.)",,,Somewhat Likely,Yes,Less than a year ago,Once a Week,Somewhat useful,Somewhat Agree,2,3,1,4,Text
+Female,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",,Somewhat Likely,,Yes,1-3 years ago,Once a Month,Somewhat useful,Strongly Disagree,2,3,4,1,Graphics
+Female,21,Some college,"Foreign Language/Area Studies (Portuguese, African studies, European studies, etc.)",,,Somewhat Unlikely,No,,Once a Week,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Male,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Likely,,,Yes,6+ years ago,2-3 Times a Week,Not useful,Neither Agree nor Disagree,3,1,4,2,Text
+Female,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",,Somewhat Likely,,Yes,1-3 years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Male,20,Some college,"Natural Sciences (biology, physics, geology, etc.)",,,Neither Likely Nor Unlikely,No,,Less than Once a Month,Somewhat useful,Somewhat Disagree,1,4,2,3,Graphics
+Female,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",,Likely,,No,,Once a Month,Somewhat useful,Strongly Disagree,3,2,1,4,Graphics
+Male,19,Some college,"Social Sciences (economics, psychology, political science, etc.)",Likely,,,Yes,1-3 years ago,Daily,Somewhat useful,Strongly Agree,2,1,4,3,Text
+Male,21,Some college,"Natural Sciences (biology, physics, geology, etc.)",,Somewhat Likely,,Yes,3-5 years ago,Less than Once a Month,Not useful,Neither Agree nor Disagree,1,2,4,3,Graphics
+Female,52,Post-graduate or more,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,,Somewhat Likely,Yes,6+ years ago,Once a Week,Somewhat useful,Somewhat Agree,4,3,2,1,Text
+Female,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Likely,,,No,1-3 years ago,Daily,Very useful,Strongly Agree,3,2,4,1,Text
+Female,20,Some college,"Natural Sciences (biology, physics, geology, etc.)",,,Somewhat Likely,Yes,3-5 years ago,Once a Month,Somewhat useful,Neither Agree nor Disagree,1,4,3,2,Text
+Transgender,21,Completed trade/vocational school,"Foreign Language/Area Studies (Portuguese, African studies, European studies, etc.)",,I Do Not Know,,Yes,Less than a year ago,Daily,Very useful,Strongly Disagree,,,,,Graphics
+Male,25,Post-graduate or more,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",Somewhat Likely,,,Yes,1-3 years ago,Once a Month,Somewhat useful,Somewhat Disagree,4,2,3,1,Graphics
+Female,22,Graduated college,"Foreign Language/Area Studies (Portuguese, African studies, European studies, etc.)",,Likely,,No,,Once a Week,Somewhat useful,Somewhat Disagree,2,1,4,3,Graphics
+Male,29,Post-graduate or more,"Foreign Language/Area Studies (Portuguese, African studies, European studies, etc.)",,,Neither Likely Nor Unlikely,No,,2-3 Times a Week,Somewhat useful,Somewhat Agree,2,4,3,1,Text
+Female,21,Some college,"Arts & Humanities (English, art, history, etc.)",Neither Likely Nor Unlikely,,,Yes,Less than a year ago,Once a Month,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Female,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Likely,,Yes,1-3 years ago,Once a Month,Very useful,Somewhat Agree,4,3,2,1,Graphics
+Female,23,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Somewhat Unlikely,Yes,Less than a year ago,2-3 Times a Week,Not useful,Somewhat Disagree,4,1,3,2,Graphics
+Male,20,Some college,"Natural Sciences (biology, physics, geology, etc.)",,,Somewhat Likely,Yes,1-3 years ago,Once a Week,Somewhat useful,Somewhat Agree,3,2,1,4,Graphics
+Female,55,Graduated college,"Arts & Humanities (English, art, history, etc.)",Somewhat Likely,,,No,,Once a Month,Somewhat useful,Somewhat Agree,3,1,2,4,Text
+Male,17,Some HS or less,,,,Somewhat Unlikely,No,,Once a Week,Somewhat useful,Somewhat Agree,1,3,2,4,Graphics
+Male,21,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,Very Likely,,Yes,1-3 years ago,2-3 Times a Week,Not useful,Somewhat Agree,3,4,1,2,Graphics
+Male,17,Some HS or less,,,Somewhat Likely,,No,,Less than Once a Month,Somewhat useful,Neither Agree nor Disagree,2,1,4,3,Graphics
+Female,20,Some college,"Social Sciences (economics, psychology, political science, etc.)",Neither Likely Nor Unlikely,,,Yes,1-3 years ago,Less than Once a Month,Not useful,Somewhat Disagree,4,2,1,3,Graphics
+Female,55,Graduated college,Other,,Somewhat Likely,,Yes,6+ years ago,Less than Once a Month,Somewhat useful,Somewhat Agree,4,1,3,2,Text
+Male,16,Some HS or less,,,,Likely,Yes,Less than a year ago,Less than Once a Month,Somewhat useful,Neither Agree nor Disagree,1,4,2,3,Graphics
+Female,39,Graduated college,"Arts & Humanities (English, art, history, etc.)",,,Somewhat Likely,Yes,6+ years ago,Daily,Somewhat useful,Somewhat Disagree,,,,,Text
+Female,35,Graduated college,,Likely,,,Yes,6+ years ago,Once a Month,Somewhat useful,Somewhat Agree,4,1,3,2,Text
+Female,63,Post-graduate or more,"Arts & Humanities (English, art, history, etc.)",Likely,,,No,,2-3 Times a Week,Somewhat useful,Somewhat Agree,,,,,Text
+Female,56,Post-graduate or more,"Natural Sciences (biology, physics, geology, etc.)",,,Neither Likely Nor Unlikely,Yes,6+ years ago,Daily,Not useful,Strongly Disagree,3,1,2,4,Text
+Female,46,Graduated college,Other,,,I Do Not Know,No,,Once a Week,Somewhat useful,Strongly Agree,4,1,3,2,Text
+Female,50,Completed trade/vocational school,,,Somewhat Likely,,No,,Once a Month,Not useful,Somewhat Disagree,,,,,Graphics
+Male,40,Post-graduate or more,"Natural Sciences (biology, physics, geology, etc.)",,,Somewhat Likely,Yes,6+ years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,3,2,4,1,Text
+Female,52,Graduated college,Other,,,Somewhat Likely,No,,Less than Once a Month,Not useful,Somewhat Disagree,,,,,Graphics
+Female,30,Graduated college,"Arts & Humanities (English, art, history, etc.)",,Very Likely,,Yes,6+ years ago,Less than Once a Month,Somewhat useful,Strongly Agree,1,4,3,2,Graphics
+Female,29,Graduated college,"Arts & Humanities (English, art, history, etc.)",Very Likely,,,No,,Less than Once a Month,Somewhat useful,Somewhat Disagree,1,3,4,2,Graphics
+Female,21,Some college,Other,Likely,,,No,,2-3 Times a Week,Somewhat useful,Somewhat Agree,3,2,1,4,Graphics
+Female,65,Completed trade/vocational school,Other,,I Do Not Know,,No,,Less than Once a Month,Not useful,Strongly Disagree,2,3,1,4,Text
+Female,53,Graduated college,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Unlikely,,,No,,Once a Week,Somewhat useful,Somewhat Agree,3,2,1,4,Graphics
+Female,42,HS Graduate/GED completed,,,Somewhat Unlikely,,No,,Less than Once a Month,Somewhat useful,Neither Agree nor Disagree,3,2,1,4,Text
+Female,42,Graduated college,Other,,,Very Likely,Yes,6+ years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,1,3,2,4,Graphics
+Female,59,Graduated college,Other,,,I Do Not Know,No,,Less than Once a Month,Not useful,Strongly Disagree,1,4,2,3,Graphics
+Female,56,Post-graduate or more,"Arts & Humanities (English, art, history, etc.)",I Do Not Know,,,Yes,6+ years ago,Less than Once a Month,Somewhat useful,Somewhat Disagree,,,,,Graphics
+Male,16,Some HS or less,,,Somewhat Likely,,Yes,Less than a year ago,Never,Not useful,Neither Agree nor Disagree,3,1,2,4,Graphics
+Female,37,HS Graduate/GED completed,"Arts & Humanities (English, art, history, etc.)",I Do Not Know,,,No,,2-3 Times a Week,Not useful,Neither Agree nor Disagree,1,3,4,2,Graphics
+Female,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Somewhat Unlikely,Yes,1-3 years ago,Less than Once a Month,Somewhat useful,Strongly Disagree,3,2,4,1,Graphics
+Male,53,Graduated college,Other,Very Likely,,,Yes,6+ years ago,Once a Week,Somewhat useful,Neither Agree nor Disagree,,,,,Graphics
+Female,51,Graduated college,Other,,Very Likely,,No,,Never,Not useful,Somewhat Agree,1,2,3,4,Graphics
+Female,47,Graduated college,Other,Likely,,,Yes,6+ years ago,2-3 Times a Week,Somewhat useful,Neither Agree nor Disagree,1,2,3,4,Text
+Female,39,Graduated college,"Arts & Humanities (English, art, history, etc.)",,,Somewhat Likely,Yes,6+ years ago,Less than Once a Month,Somewhat useful,Neither Agree nor Disagree,2,3,1,4,Graphics
+Female,59,Post-graduate or more,"Social Sciences (economics, psychology, political science, etc.)",,,Somewhat Likely,Yes,6+ years ago,Once a Week,Somewhat useful,Somewhat Agree,,,,,Graphics
+Male,16,Some HS or less,,Somewhat Likely,,,No,,Less than Once a Month,Somewhat useful,Somewhat Agree,2,1,4,3,Graphics
+Male,17,Some HS or less,,,,Neither Likely Nor Unlikely,Yes,Less than a year ago,Less than Once a Month,Somewhat useful,Somewhat Agree,2,4,3,1,Graphics
+Female,56,Post-graduate or more,"Arts & Humanities (English, art, history, etc.)",Somewhat Likely,,,No,,Less than Once a Month,Not useful,Somewhat Agree,,,,,Graphics
+Female,40,Some college,Other,,Likely,,No,,Less than Once a Month,Somewhat useful,Somewhat Disagree,2,4,1,3,Graphics
+Female,54,Post-graduate or more,"Arts & Humanities (English, art, history, etc.)",Neither Likely Nor Unlikely,,,Yes,6+ years ago,Less than Once a Month,Not useful,Strongly Disagree,3,4,1,2,Graphics
+Female,68,Post-graduate or more,Other,,,I Do Not Know,No,,2-3 Times a Week,Somewhat useful,Neither Agree nor Disagree,,,,,Text
+Female,49,Graduated college,"Social Sciences (economics, psychology, political science, etc.)",,Very Unlikely,,Yes,6+ years ago,Once a Month,Somewhat useful,Somewhat Agree,,,,,Text
+Female,54,Post-graduate or more,"Social Sciences (economics, psychology, political science, etc.)",,,Very Likely,Yes,6+ years ago,Once a Week,Somewhat useful,Somewhat Agree,2,1,3,4,Graphics
+Female,54,Graduated college,"Arts & Humanities (English, art, history, etc.)",Very Likely,,,No,,Once a Week,Somewhat useful,Somewhat Agree,,,,,Text
+Male,15,Some HS or less,,I Do Not Know,,,No,,Once a Week,Somewhat useful,Neither Agree nor Disagree,4,3,1,2,Graphics
+Female,16,Some HS or less,,,Somewhat Unlikely,,No,,Once a Month,Very useful,Somewhat Agree,1,2,3,4,Graphics
+Female,17,Some HS or less,,Neither Likely Nor Unlikely,,,No,,2-3 Times a Week,Somewhat useful,Somewhat Agree,1,4,3,2,Graphics
+Female,15,Some HS or less,,Likely,,,No,,2-3 Times a Week,Somewhat useful,Somewhat Disagree,,,,,Graphics
+Female,16,Some HS or less,,,,Somewhat Likely,No,,Once a Month,Somewhat useful,Somewhat Disagree,4,3,2,1,Graphics
+Female,16,Some HS or less,,Neither Likely Nor Unlikely,,,No,,Once a Week,Somewhat useful,Somewhat Disagree,1,3,2,4,Graphics
+Female,40,Some college,Other,,,Somewhat Likely,No,,Less than Once a Month,Somewhat useful,Somewhat Disagree,2,1,3,4,Graphics
+Male,17,Some HS or less,,,Somewhat Likely,,Yes,1-3 years ago,2-3 Times a Week,Very useful,Strongly Disagree,1,2,4,3,Graphics
+Female,16,Some HS or less,,,Likely,,No,,Once a Month,Very useful,Somewhat Agree,3,2,1,4,Text
+Male,17,Some HS or less,,Likely,,,No,,Once a Week,Somewhat useful,Strongly Agree,1,4,3,2,Graphics
+Female,49,Graduated college,Other,Neither Likely Nor Unlikely,,,Yes,6+ years ago,Once a Week,Not useful,Somewhat Disagree,3,2,1,4,Graphics
+Male,21,Graduated college,"Natural Sciences (biology, physics, geology, etc.)",Somewhat Likely,,,No,,2-3 Times a Week,Somewhat useful,Somewhat Agree,1,3,4,2,Graphics
+Female,17,Some HS or less,"Social Sciences (economics, psychology, political science, etc.)",,Likely,,No,,2-3 Times a Week,Not useful,Somewhat Agree,2,4,1,3,Text
+Female,17,Some HS or less,,,Likely,,No,,Once a Week,Somewhat useful,Somewhat Agree,1,3,4,2,Graphics
+Female,16,Some HS or less,,Somewhat Likely,,,No,,Once a Month,Somewhat useful,Somewhat Agree,3,2,1,4,Graphics
+Female,62,Post-graduate or more,"Arts & Humanities (English, art, history, etc.)",,,Somewhat Likely,Yes,6+ years ago,2-3 Times a Week,Not useful,Somewhat Disagree,1,3,2,4,Text
+Male,16,Some HS or less,,,Likely,,No,,Daily,Somewhat useful,Strongly Disagree,4,1,2,3,Text
+Female,15,Some HS or less,,,,Somewhat Unlikely,No,,Once a Week,Very useful,Somewhat Disagree,4,3,2,1,Text
+Male,48,Post-graduate or more,Other,,Somewhat Likely,,Yes,6+ years ago,Daily,Somewhat useful,Somewhat Disagree,1,4,2,3,Text
+Male,18,Some HS or less,,Likely,,,No,,Daily,Not useful,Somewhat Disagree,4,2,1,3,Graphics
+Female,38,Graduated college,"Arts & Humanities (English, art, history, etc.)",,,Neither Likely Nor Unlikely,Yes,6+ years ago,Less than Once a Month,Somewhat useful,Somewhat Disagree,3,1,4,2,Text
+Female,17,Some HS or less,,,Somewhat Likely,,No,,Once a Month,Somewhat useful,Neither Agree nor Disagree,1,2,3,4,Graphics
+Male,57,Some college,Other,,,Somewhat Likely,Yes,6+ years ago,Once a Month,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Female,59,Graduated college,"Natural Sciences (biology, physics, geology, etc.)",Somewhat Unlikely,,,No,,Less than Once a Month,Somewhat useful,Neither Agree nor Disagree,2,4,3,1,Graphics
+Female,44,Graduated college,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Unlikely,,,No,,Less than Once a Month,Somewhat useful,Somewhat Disagree,1,3,4,2,Text
+Male,48,Post-graduate or more,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Likely,,Yes,6+ years ago,Less than Once a Month,Not useful,Neither Agree nor Disagree,1,2,3,4,Text
+Male,14,Some HS or less,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,,Somewhat Likely,No,,Once a Month,Very useful,Somewhat Disagree,3,1,4,2,Graphics
+Male,15,Some HS or less,Other,,Neither Likely nor Unlikely,,Yes,Less than a year ago,Once a Month,Very useful,Strongly Disagree,1,3,2,4,Text
+Female,16,Some HS or less,,Somewhat Likely,,,Yes,Less than a year ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,2,3,4,1,Graphics
+Male,26,Post-graduate or more,"Natural Sciences (biology, physics, geology, etc.)",,,Neither Likely Nor Unlikely,Yes,1-3 years ago,Never,Not useful,Somewhat Disagree,4,3,2,1,Graphics
+Female,54,Graduated college,Other,,,Somewhat Likely,Yes,6+ years ago,Once a Month,Somewhat useful,Neither Agree nor Disagree,4,3,2,1,Text
+Female,54,Graduated college,"Social Sciences (economics, psychology, political science, etc.)",Likely,,,Yes,6+ years ago,Once a Month,Somewhat useful,Somewhat Agree,1,2,3,4,Graphics
+Female,60,Post-graduate or more,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,Unlikely,,Yes,6+ years ago,Once a Week,Somewhat useful,Somewhat Disagree,2,3,4,1,Graphics
+Male,16,Some HS or less,,,,Somewhat Likely,Yes,,Less than Once a Month,Very useful,Strongly Agree,,,,,Text
+Female,38,Post-graduate or more,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Likely,,,No,,2-3 Times a Week,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Male,60,Graduated college,Other,,Somewhat Likely,,Yes,6+ years ago,Less than Once a Month,Not useful,Somewhat Agree,3,2,4,1,Graphics
+Female,34,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Very Unlikely,Yes,6+ years ago,Never,Somewhat useful,Neither Agree nor Disagree,,,,,Graphics
+Female,54,Graduated college,Other,Somewhat Likely,,,No,,Less than Once a Month,Somewhat useful,Neither Agree nor Disagree,3,2,4,1,Graphics
+Female,68,Post-graduate or more,Other,,,I Do Not Know,Yes,6+ years ago,2-3 Times a Week,Somewhat useful,Neither Agree nor Disagree,,,,,Text
+Male,22,Some college,"Arts & Humanities (English, art, history, etc.)",Neither Likely Nor Unlikely,,,No,6+ years ago,Less than Once a Month,Not useful,Strongly Disagree,3,1,4,2,Graphics
+Female,45,Post-graduate or more,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Likely,,,Yes,6+ years ago,Once a Week,Somewhat useful,Somewhat Agree,4,2,3,1,Graphics
+Female,20,Some college,"Natural Sciences (biology, physics, geology, etc.)",,,Neither Likely Nor Unlikely,Yes,1-3 years ago,Never,Not useful,Somewhat Disagree,3,1,2,4,Text
+Female,19,Some college,"Social Sciences (economics, psychology, political science, etc.)",,Somewhat Unlikely,,Yes,1-3 years ago,2-3 Times a Week,Somewhat useful,Somewhat Agree,3,1,2,4,Text
+Male,47,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",Neither Likely Nor Unlikely,,,No,,Once a Week,Somewhat useful,Neither Agree nor Disagree,4,3,2,1,Graphics
+Female,19,Some college,"Arts & Humanities (English, art, history, etc.)",,Likely,,No,,Once a Week,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Female,43,Graduated college,"Natural Sciences (biology, physics, geology, etc.)",,,Somewhat Likely,Yes,6+ years ago,Once a Month,Somewhat useful,Neither Agree nor Disagree,4,2,1,3,Text
+Female,19,Some college,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Likely,,,Yes,1-3 years ago,Once a Month,Somewhat useful,Somewhat Agree,1,4,3,2,Graphics
+Female,63,Post-graduate or more,"Natural Sciences (biology, physics, geology, etc.)",,Neither Likely nor Unlikely,,Yes,6+ years ago,Less than Once a Month,Not useful,Strongly Disagree,3,2,4,1,Graphics
+Female,55,Graduated college,"Natural Sciences (biology, physics, geology, etc.)",,Likely,,Yes,6+ years ago,Never,Not useful,Somewhat Disagree,,,,,Graphics
+Female,46,Graduated college,"Arts & Humanities (English, art, history, etc.)",Somewhat Likely,,,Yes,6+ years ago,Once a Week,Somewhat useful,Neither Agree nor Disagree,1,2,3,4,Text
+Female,63,Some college,"Arts & Humanities (English, art, history, etc.)",,,Somewhat Likely,No,,Once a Week,Not useful,Somewhat Disagree,4,3,2,1,Graphics
+Female,50,Post-graduate or more,"Arts & Humanities (English, art, history, etc.)",,I Do Not Know,,Yes,6+ years ago,Daily,Not useful,Strongly Disagree,1,2,4,3,Graphics
+Male,42,Post-graduate or more,Other,,,Somewhat Likely,Yes,6+ years ago,Once a Month,Somewhat useful,Somewhat Agree,1,2,3,4,Graphics
+Female,21,Some college,Other,Somewhat Likely,,,Yes,1-3 years ago,Daily,Somewhat useful,Somewhat Agree,3,2,4,1,Text
+Male,21,Some college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",,,Likely,Yes,Less than a year ago,Daily,Very useful,Strongly Agree,4,2,3,1,Graphics
+Male,18,Some college,Other,,Likely,,Yes,Less than a year ago,Once a Week,Somewhat useful,Somewhat Agree,3,1,2,4,Graphics
+Male,22,Graduated college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",Somewhat Likely,,,Yes,1-3 years ago,Never,Not useful,Somewhat Agree,3,1,2,4,Graphics
+Male,20,Some college,Other,,Likely,,Yes,Less than a year ago,Less than Once a Month,Somewhat useful,Somewhat Disagree,4,2,1,3,Text
+Male,26,Post-graduate or more,"Arts & Humanities (English, art, history, etc.)",Likely,,,No,,Less than Once a Month,Not useful,Somewhat Disagree,3,1,2,4,Graphics
+Female,22,Some college,"Natural Sciences (biology, physics, geology, etc.)",,,Neither Likely Nor Unlikely,No,,Less than Once a Month,Not useful,Somewhat Disagree,4,3,2,1,Graphics
+Male,24,Graduated college,"Social Sciences (economics, psychology, political science, etc.)",,,Likely,Yes,3-5 years ago,Daily,Not useful,Strongly Disagree,1,4,3,2,Graphics
+Female,21,Graduated college,"Social Sciences (economics, psychology, political science, etc.)",Somewhat Likely,,,Yes,Less than a year ago,Daily,Somewhat useful,Somewhat Agree,4,3,1,2,Graphics
+Female,50,Graduated college,"Arts & Humanities (English, art, history, etc.)",,Somewhat Likely,,No,,2-3 Times a Week,Somewhat useful,Somewhat Agree,2,1,4,3,Graphics
+Male,36,Some college,Other,Somewhat Likely,,,Yes,6+ years ago,Daily,Very useful,Somewhat Agree,4,2,3,1,Graphics
+Female,21,Some college,"Social Sciences (economics, psychology, political science, etc.)",,,Neither Likely Nor Unlikely,Yes,Less than a year ago,2-3 Times a Week,Somewhat useful,Somewhat Disagree,2,1,4,3,Graphics
+Female,32,HS Graduate/GED completed,,,Somewhat Likely,,No,,Never,Not useful,Strongly Disagree,2,3,4,1,Text
+Male,33,Graduated college,"Mathematics/Computer Science (applied math, pure math, statistics, etc.)",Likely,,,Yes,6+ years ago,Less than Once a Month,Somewhat useful,Somewhat Agree,3,1,2,4,Text
