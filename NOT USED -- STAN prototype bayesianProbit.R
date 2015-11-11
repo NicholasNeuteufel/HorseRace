@@ -1,3 +1,5 @@
+#Not used in the paper as of Nov. 2015
+
 bayesData <- read.csv(file="gistStuff.csv", h=T) #Formerly known as `final'
 set.seed(12) #reproducibility
 bayesData$Treatment <- as.factor(bayesData$Treatment)
